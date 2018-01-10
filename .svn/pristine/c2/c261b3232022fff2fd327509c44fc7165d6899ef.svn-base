@@ -1,0 +1,99 @@
+*{margin:0px; padding:0px;}
+body{margin:0;padding:0;font-family:Microsoft Yahei,w3;}
+h1{font-family:Microsoft Yahei,w3; }
+
+
+.btn-success 
+{
+    color: #fff;
+    background-color: #71ae34 !important;
+    border-color: #71ae34 !important;
+}
+.btn-success:hover, .btn-success:focus, .btn-success:active, .btn-success.active, .open .dropdown-toggle.btn-success 
+{
+    color: #fff;
+    background-color: #85c744 !important;
+    border-color: #85c744 !important;
+}
+.big{ padding:5px 35px; font-size:16px; font-weight:bold; border-radius:5px; float:right; }
+
+#device_ele .form-group{ margin-right:10px}
+
+#room_detail .col-sm-5{width:83%; float:right;margin-bottom:5px}
+#room_detail .input-group-addon{ border:1px solid #a2d3d5; margin-right:10px; background:#f1fcfc; font-weight:bold; color:#2979db; text-align:left}
+#room_detail .input-group-addon .radio-inline{ padding-top:0px; margin-left:10px; font-weight:normal; color:#333}
+#room_detail .input-group-addon label{ font-weight:bold}
+#room_detail .input-group-addon select{ margin-left:10px}
+
+
+td a.btn-xs:hover {  transform:none !important;}
+
+.boxsee input{ border:1px  solid #ccc; height:30px; line-height:30px}
+
+.boxsee .btn-warning{color: #fff !important;
+background-color: #E59729!important;
+border:none!important;border-radius:5px; padding:3px 25px; font-size:16px }
+
+.orderlist div{ border-bottom:1px solid #ccc; width:100%; padding:10px 20px 0px 0px}
+.logo{ background:url(../images/logoico.png) no-repeat; padding-left:32px}
+
+.navbar{ background:#0160d5 url(../images/top_di.jpg) top repeat-x;}
+.navbar .navbar-container{ background:url(../images/top_left.jpg) left top no-repeat; width:100%;min-height:45px }
+
+
+.gongzong{width:98%; margin:20px auto;}
+.gongzong .btn_add{ background:#090; color:#fff; padding:8px 30px; border-radius:5px; text-decoration:none; font-size:1em; font-weight:bold}
+.gongzong .research{ margin-top:20px; width:100%;}
+.gongzong .research .se{ border-radius:5px;padding:0.7em 1em; border:1px  solid #ccc;width:400px}
+.gongzong .research .sebtn{ color:#fff;  text-shadow: 0 0 5px red; font-weight:bold; border-radius:5px;padding:0.3em 1.5em; border:1px  solid #d84714; margin-left:5px; font-size:1em; background-image: -moz-linear-gradient(top, #f5954f, #f16f0f); }
+
+.list_tab{ border:1px solid #ccc; border-radius:5px; margin-bottom:10px }
+.list_tab .top{ padding:10px; text-indent:8px; background:#ccc; border-bottom:1px solid #ccc;}
+.list_tab .bottom{padding:10px ;  text-indent:8px; background:#eee; border-top:1px solid #ccc; color:#4b4c4c; font-size:12px}
+.list_tab .l{ float:left}
+.list_tab .r{ float:right}
+.clear{ clear:both}
+.list_tab  .company{ padding:20px}
+.list_tab img{ vertical-align:middle}
+.list_tab .top .r{ color:red}
+
+ .profile-info-value{border:1px solid #a3cf9a; text-align:center}
+.profile-info-row .td_bg{  font-weight:bold;border-top: 1px  solid #a3cf9a ;} 
+.profile-user-info-striped .tt{;  font-weight:bold; padding:6px 4px 6px 6px; width:100%}
+.profile-user-info-striped{ border:none;background:#d6fdce; border:1px  solid #a3cf9a}
+.profile-user-info-striped .profile-info-value{ background:#fff}
+
+.modal-header{ background:#1B6AAA; color:#fff; padding:5px 15px}
+.modal-dialog{ margin-top:12%}
+
+/*登录框*/
+.login-layout{ background:#000 url(../images/login_bg.jpg) no-repeat center center !important; background-attachment:fixed !important}
+.position-relative{ background:url(../images/iphone.png) no-repeat center center !important;width:455px; height:600px;  position:absolute !important; top:50%; margin-top:-300px ; left:50%; margin-left:-225px}
+.login-layout .widget-box .widget-main{ background:none !important; width:300px !important; margin:55px auto  0px  auto !important; color:#fff}
+.login_logo{background:url(../images/login_logo.png) no-repeat !important; width:226px; height:205px; margin:0 auto}
+.login-layout .form-group input[type="text"],.login-layout .form-group input[type="password"]{ border-radius:5px !important; }
+
+.login-layout .btn{ background:url(../images/l_btn1.png) no-repeat !important; border:none !important; color:#333 !important; font-size:20px; padding:20px 6px !important;width:90px; height:90px;}
+.login-layout .btn:focus{background: none !important;outline:none;background:url(../images/l_btn2.png) no-repeat !important; color:#C00 !important}
+.login-layout .btn:hover{background:url(../images/l_btn2.png) no-repeat !important; color:#C00 !important}
+
+.login-layout .form-group.has-error .help-block{ position:absolute;z-index:1; top:-2px; right:20px; font-size:12px}
+
+.login-layout label{ margin-bottom:5px;}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
